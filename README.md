@@ -27,3 +27,9 @@ List of some links that are usable for Rails
 
 # https://www.atlassian.com/es/git/tutorials/merging-vs-rebasing
 ![Screenshot from 2021-08-29 13-18-20](https://user-images.githubusercontent.com/57637591/131261164-505566ec-17cc-4496-a425-ff62542d1836.png)
+
+# https://getbootstrap.com/docs/5.0/components/dropdowns/#via-javascript
+![Screenshot from 2021-08-29 13-22-44](https://user-images.githubusercontent.com/57637591/131261295-3578cc1e-f4bb-48b6-a7ba-28823c32cb0f.png)
+
+# http://blog.magmalabs.io/2021/08/26/how-to-be-a-software-professional-developer.html?utm_source=SocialMedia&utm_medium=Post&utm_campaign=AG026&fbclid=IwAR1RS_NbaE9QqPBf_dVe9glR47Pg_lKqu7ncIHmcdsRzYINKjfq0HL5LHj4
+![Screenshot from 2021-08-29 13-24-03](https://user-images.githubusercontent.com/57637591/131261329-f7466e82-2148-4509-87b9-a8b19d6314b7.png)
