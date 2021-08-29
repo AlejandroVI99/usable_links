@@ -1,5 +1,5 @@
-# usable_links
-List of some links that are usable for programing
+# Usable_links
+List of some links that are usable for Rails
 
 # https://medium.com/lightthefuse/rails-single-table-inheritance-with-devise-b7eb5270b28
 ![Screenshot from 2021-08-29 12-36-14](https://user-images.githubusercontent.com/57637591/131259908-0c803397-0990-49a3-a26f-aa07d22e3f6d.png)
