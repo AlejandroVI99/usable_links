@@ -33,3 +33,6 @@ List of some links that are usable for Rails
 
 # http://blog.magmalabs.io/2021/08/26/how-to-be-a-software-professional-developer.html?utm_source=SocialMedia&utm_medium=Post&utm_campaign=AG026&fbclid=IwAR1RS_NbaE9QqPBf_dVe9glR47Pg_lKqu7ncIHmcdsRzYINKjfq0HL5LHj4
 ![Screenshot from 2021-08-29 13-24-03](https://user-images.githubusercontent.com/57637591/131261329-f7466e82-2148-4509-87b9-a8b19d6314b7.png)
+
+# https://warrenniu.medium.com/how-to-seed-a-rails-database-with-a-csv-file-6ac24e2bbd90
+![imagen](https://user-images.githubusercontent.com/57637591/143924554-f0684a57-3790-4252-bc87-4b690c1ed25f.png)
